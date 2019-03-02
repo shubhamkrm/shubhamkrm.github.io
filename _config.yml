@@ -1,17 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Shubham Kumaram's Dev Blog
+description: A blog about stuff I build and technologies I learn
+url: "http://www.kumaram.dev"
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Shubham Kumaram
+user_description: I am a final year student pursuing Bachlors of Engineering in Information Technology. I love learning and creating new things which can be used by people everywhere. Here I'd be sharing stuff I learn and also stuff I make. Stay tuned.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: shubham@kumaram.dev
+twitter_username: shubhamkrm
+github_username:  shubhamkrm
+linkedin_username:  shubham-kumaram
 
 # Google-analytics
 google-analytics:
